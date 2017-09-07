@@ -16,14 +16,6 @@ Xamarin Android Week View is an android library to display calendars (week view 
  - Infinite horizontal scrolling
  - Live preview of custom styling in xml preview window
 
-### Changelog ###
-**Version 1.2.6**
-
-* Add empty view click listener
-* Fix padding bug
-* Fix bug when setting colors of different components
-* Add ability to turn off fling gesture
-* Add example of how to load events asynchronously in the sample app
 
 ## Getting Started
 
@@ -81,3 +73,12 @@ public IList<WeekViewEvent> OnMonthChange(int newYear, int newMonth)
             return events;
         }
  ```
+
+### Changelog ###
+**Version 1.2.6**
+
+* Add empty view click listener
+* Fix padding bug
+* Fix bug when setting colors of different components
+* Add ability to turn off fling gesture
+* Add example of how to load events asynchronously in the sample app
