@@ -1,0 +1,19 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:myapp="http://schemas.android.com/apk/res-auto">
+
+  <item android:id="@+id/action_today"
+       android:title="Today"
+       myapp:showAsAction="always"/>
+  <item android:id="@+id/action_dayView"
+       android:title="DayView"
+       myapp:showAsAction="always"/>
+  <item android:id="@+id/action_threedays"
+       android:icon="@drawable/ic_action_undo"
+       android:title="3 Days"
+       myapp:showAsAction="never"/>
+  <item android:id="@+id/action_show_week"
+       android:icon="@drawable/ic_action_undo"
+       android:title="Week"
+       myapp:showAsAction="never"/>
+
+</menu>
