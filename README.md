@@ -19,7 +19,10 @@ Xamarin Android Week View is an android library to display calendars (week view 
 
 ## Getting Started
 
-1.  Import the BindingsWeekView.dll into your project Or add binding project to your Refereneces.
+1.  Import the BindingsWeekView.dll into your project Or add binding project to your Refereneces. Or using [NuGet](https://www.nuget.org/packages/Xamarin.Android.Itium.WeekView):
+```xml
+Install-Package Xamarin.Android.Itium.WeekView -Version 1.0.0
+```
  
 2. Add WeekView in your xml layout:
 
