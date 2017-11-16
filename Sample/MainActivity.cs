@@ -55,6 +55,10 @@ namespace Sample
             // the week view. This is optional.
             setupDateTimeInterpreter(false);
 
+            // Set an optional time range to display.
+            mWeekView.SetMinTime(0);
+            mWeekView.SetMaxTime(13);
+
 
             mToolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
 
