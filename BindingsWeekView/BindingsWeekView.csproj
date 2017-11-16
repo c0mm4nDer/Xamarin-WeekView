@@ -58,7 +58,7 @@
   <ItemGroup>
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\library-release.aar" />
+    <LibraryProjectZip Include="Jars\android-week-view-2.1.1.aar" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

@@ -188,8 +188,8 @@ namespace Sample
 			// aapt resource value: 0x7f010089
 			public const int alertDialogTheme = 2130772105;
 			
-			// aapt resource value: 0x7f010106
-			public const int allDayEventHeight = 2130772230;
+			// aapt resource value: 0x7f0100e1
+			public const int allDayEventHeight = 2130772193;
 			
 			// aapt resource value: 0x7f01009c
 			public const int allowStacking = 2130772124;
@@ -205,6 +205,9 @@ namespace Sample
 			
 			// aapt resource value: 0x7f01008e
 			public const int autoCompleteTextViewStyle = 2130772110;
+			
+			// aapt resource value: 0x7f0100e2
+			public const int autoLimitTime = 2130772194;
 			
 			// aapt resource value: 0x7f01000c
 			public const int background = 2130771980;
@@ -308,8 +311,8 @@ namespace Sample
 			// aapt resource value: 0x7f010083
 			public const int colorSwitchThumbNormal = 2130772099;
 			
-			// aapt resource value: 0x7f0100e9
-			public const int columnGap = 2130772201;
+			// aapt resource value: 0x7f0100e3
+			public const int columnGap = 2130772195;
 			
 			// aapt resource value: 0x7f0100bc
 			public const int commitIcon = 2130772156;
@@ -338,11 +341,11 @@ namespace Sample
 			// aapt resource value: 0x7f01000f
 			public const int customNavigationLayout = 2130771983;
 			
-			// aapt resource value: 0x7f0100ee
-			public const int dayBackgroundColor = 2130772206;
+			// aapt resource value: 0x7f0100e4
+			public const int dayBackgroundColor = 2130772196;
 			
-			// aapt resource value: 0x7f0100f6
-			public const int dayNameLength = 2130772214;
+			// aapt resource value: 0x7f0100e5
+			public const int dayNameLength = 2130772197;
 			
 			// aapt resource value: 0x7f0100b6
 			public const int defaultQueryHint = 2130772150;
@@ -392,32 +395,32 @@ namespace Sample
 			// aapt resource value: 0x7f01001c
 			public const int elevation = 2130771996;
 			
-			// aapt resource value: 0x7f0100fa
-			public const int eventCornerRadius = 2130772218;
-			
-			// aapt resource value: 0x7f0100f8
-			public const int eventMarginVertical = 2130772216;
-			
-			// aapt resource value: 0x7f0100f4
-			public const int eventPadding = 2130772212;
-			
-			// aapt resource value: 0x7f0100f3
-			public const int eventTextColor = 2130772211;
-			
 			// aapt resource value: 0x7f0100e6
-			public const int eventTextSize = 2130772198;
+			public const int eventCornerRadius = 2130772198;
+			
+			// aapt resource value: 0x7f0100e7
+			public const int eventMarginVertical = 2130772199;
+			
+			// aapt resource value: 0x7f0100e8
+			public const int eventPadding = 2130772200;
+			
+			// aapt resource value: 0x7f0100e9
+			public const int eventTextColor = 2130772201;
+			
+			// aapt resource value: 0x7f0100ea
+			public const int eventTextSize = 2130772202;
 			
 			// aapt resource value: 0x7f010020
 			public const int expandActivityOverflowButtonDrawable = 2130772000;
 			
-			// aapt resource value: 0x7f0100e1
-			public const int firstDayOfWeek = 2130772193;
+			// aapt resource value: 0x7f0100eb
+			public const int firstDayOfWeek = 2130772203;
 			
-			// aapt resource value: 0x7f0100fd
-			public const int futureBackgroundColor = 2130772221;
+			// aapt resource value: 0x7f0100ec
+			public const int futureBackgroundColor = 2130772204;
 			
-			// aapt resource value: 0x7f0100ff
-			public const int futureWeekendBackgroundColor = 2130772223;
+			// aapt resource value: 0x7f0100ed
+			public const int futureWeekendBackgroundColor = 2130772205;
 			
 			// aapt resource value: 0x7f0100a3
 			public const int gapBetweenBars = 2130772131;
@@ -425,20 +428,20 @@ namespace Sample
 			// aapt resource value: 0x7f0100b8
 			public const int goIcon = 2130772152;
 			
-			// aapt resource value: 0x7f0100f5
-			public const int headerColumnBackground = 2130772213;
+			// aapt resource value: 0x7f0100ee
+			public const int headerColumnBackground = 2130772206;
 			
-			// aapt resource value: 0x7f0100e7
-			public const int headerColumnPadding = 2130772199;
+			// aapt resource value: 0x7f0100ef
+			public const int headerColumnPadding = 2130772207;
 			
-			// aapt resource value: 0x7f0100ea
-			public const int headerColumnTextColor = 2130772202;
+			// aapt resource value: 0x7f0100f0
+			public const int headerColumnTextColor = 2130772208;
 			
-			// aapt resource value: 0x7f0100ed
-			public const int headerRowBackgroundColor = 2130772205;
+			// aapt resource value: 0x7f0100f1
+			public const int headerRowBackgroundColor = 2130772209;
 			
-			// aapt resource value: 0x7f0100e8
-			public const int headerRowPadding = 2130772200;
+			// aapt resource value: 0x7f0100f2
+			public const int headerRowPadding = 2130772210;
 			
 			// aapt resource value: 0x7f010001
 			public const int height = 2130771969;
@@ -452,17 +455,17 @@ namespace Sample
 			// aapt resource value: 0x7f010010
 			public const int homeLayout = 2130771984;
 			
-			// aapt resource value: 0x7f010104
-			public const int horizontalFlingEnabled = 2130772228;
+			// aapt resource value: 0x7f0100f3
+			public const int horizontalFlingEnabled = 2130772211;
 			
-			// aapt resource value: 0x7f0100e2
-			public const int hourHeight = 2130772194;
+			// aapt resource value: 0x7f0100f4
+			public const int hourHeight = 2130772212;
 			
-			// aapt resource value: 0x7f0100ef
-			public const int hourSeparatorColor = 2130772207;
+			// aapt resource value: 0x7f0100f5
+			public const int hourSeparatorColor = 2130772213;
 			
-			// aapt resource value: 0x7f0100f2
-			public const int hourSeparatorHeight = 2130772210;
+			// aapt resource value: 0x7f0100f6
+			public const int hourSeparatorHeight = 2130772214;
 			
 			// aapt resource value: 0x7f010009
 			public const int icon = 2130771977;
@@ -530,14 +533,20 @@ namespace Sample
 			// aapt resource value: 0x7f0100d3
 			public const int maxButtonHeight = 2130772179;
 			
-			// aapt resource value: 0x7f0100e4
-			public const int maxHourHeight = 2130772196;
+			// aapt resource value: 0x7f0100f7
+			public const int maxHourHeight = 2130772215;
+			
+			// aapt resource value: 0x7f0100f8
+			public const int maxTime = 2130772216;
 			
 			// aapt resource value: 0x7f0100a8
 			public const int measureWithLargestChild = 2130772136;
 			
-			// aapt resource value: 0x7f0100e3
-			public const int minHourHeight = 2130772195;
+			// aapt resource value: 0x7f0100f9
+			public const int minHourHeight = 2130772217;
+			
+			// aapt resource value: 0x7f0100fa
+			public const int minTime = 2130772218;
 			
 			// aapt resource value: 0x7f010023
 			public const int multiChoiceItemLayout = 2130772003;
@@ -551,20 +560,35 @@ namespace Sample
 			// aapt resource value: 0x7f010004
 			public const int navigationMode = 2130771972;
 			
-			// aapt resource value: 0x7f0100eb
-			public const int noOfVisibleDays = 2130772203;
+			// aapt resource value: 0x7f0100fb
+			public const int newEventColor = 2130772219;
+			
+			// aapt resource value: 0x7f0100fd
+			public const int newEventIconResource = 2130772221;
+			
+			// aapt resource value: 0x7f0100fc
+			public const int newEventId = 2130772220;
+			
+			// aapt resource value: 0x7f0100fe
+			public const int newEventLengthInMinutes = 2130772222;
+			
+			// aapt resource value: 0x7f0100ff
+			public const int newEventTimeResolutionInMinutes = 2130772223;
+			
+			// aapt resource value: 0x7f010100
+			public const int noOfVisibleDays = 2130772224;
+			
+			// aapt resource value: 0x7f010101
+			public const int nowLineColor = 2130772225;
 			
 			// aapt resource value: 0x7f010102
-			public const int nowLineColor = 2130772226;
-			
-			// aapt resource value: 0x7f010103
-			public const int nowLineThickness = 2130772227;
+			public const int nowLineThickness = 2130772226;
 			
 			// aapt resource value: 0x7f0100b1
 			public const int overlapAnchor = 2130772145;
 			
-			// aapt resource value: 0x7f0100f7
-			public const int overlappingEventGap = 2130772215;
+			// aapt resource value: 0x7f010103
+			public const int overlappingEventGap = 2130772227;
 			
 			// aapt resource value: 0x7f0100dd
 			public const int paddingEnd = 2130772189;
@@ -581,11 +605,11 @@ namespace Sample
 			// aapt resource value: 0x7f010079
 			public const int panelMenuListWidth = 2130772089;
 			
-			// aapt resource value: 0x7f0100fe
-			public const int pastBackgroundColor = 2130772222;
+			// aapt resource value: 0x7f010104
+			public const int pastBackgroundColor = 2130772228;
 			
-			// aapt resource value: 0x7f010100
-			public const int pastWeekendBackgroundColor = 2130772224;
+			// aapt resource value: 0x7f010105
+			public const int pastWeekendBackgroundColor = 2130772229;
 			
 			// aapt resource value: 0x7f010066
 			public const int popupMenuStyle = 2130772070;
@@ -623,8 +647,8 @@ namespace Sample
 			// aapt resource value: 0x7f010097
 			public const int ratingBarStyleSmall = 2130772119;
 			
-			// aapt resource value: 0x7f010107
-			public const int scrollDuration = 2130772231;
+			// aapt resource value: 0x7f010106
+			public const int scrollDuration = 2130772230;
 			
 			// aapt resource value: 0x7f0100ba
 			public const int searchHintIcon = 2130772154;
@@ -647,20 +671,20 @@ namespace Sample
 			// aapt resource value: 0x7f0100ab
 			public const int showAsAction = 2130772139;
 			
-			// aapt resource value: 0x7f0100fb
-			public const int showDistinctPastFutureColor = 2130772219;
+			// aapt resource value: 0x7f010107
+			public const int showDistinctPastFutureColor = 2130772231;
 			
-			// aapt resource value: 0x7f0100fc
-			public const int showDistinctWeekendColor = 2130772220;
+			// aapt resource value: 0x7f010108
+			public const int showDistinctWeekendColor = 2130772232;
 			
 			// aapt resource value: 0x7f0100a9
 			public const int showDividers = 2130772137;
 			
-			// aapt resource value: 0x7f0100ec
-			public const int showFirstDayOfWeekFirst = 2130772204;
+			// aapt resource value: 0x7f010109
+			public const int showFirstDayOfWeekFirst = 2130772233;
 			
-			// aapt resource value: 0x7f010101
-			public const int showNowLine = 2130772225;
+			// aapt resource value: 0x7f01010a
+			public const int showNowLine = 2130772234;
 			
 			// aapt resource value: 0x7f0100ca
 			public const int showText = 2130772170;
@@ -749,8 +773,8 @@ namespace Sample
 			// aapt resource value: 0x7f01006d
 			public const int textColorSearchUrl = 2130772077;
 			
-			// aapt resource value: 0x7f0100e5
-			public const int textSize = 2130772197;
+			// aapt resource value: 0x7f01010b
+			public const int textSize = 2130772235;
 			
 			// aapt resource value: 0x7f0100de
 			public const int theme = 2130772190;
@@ -775,6 +799,9 @@ namespace Sample
 			
 			// aapt resource value: 0x7f010029
 			public const int tickMarkTintMode = 2130772009;
+			
+			// aapt resource value: 0x7f01010c
+			public const int timeColumnResolution = 2130772236;
 			
 			// aapt resource value: 0x7f010003
 			public const int title = 2130771971;
@@ -806,11 +833,11 @@ namespace Sample
 			// aapt resource value: 0x7f010007
 			public const int titleTextStyle = 2130771975;
 			
-			// aapt resource value: 0x7f0100f0
-			public const int todayBackgroundColor = 2130772208;
+			// aapt resource value: 0x7f01010d
+			public const int todayBackgroundColor = 2130772237;
 			
-			// aapt resource value: 0x7f0100f1
-			public const int todayHeaderTextColor = 2130772209;
+			// aapt resource value: 0x7f01010e
+			public const int todayHeaderTextColor = 2130772238;
 			
 			// aapt resource value: 0x7f010065
 			public const int toolbarNavigationButtonStyle = 2130772069;
@@ -827,8 +854,8 @@ namespace Sample
 			// aapt resource value: 0x7f0100c4
 			public const int trackTintMode = 2130772164;
 			
-			// aapt resource value: 0x7f010105
-			public const int verticalFlingEnabled = 2130772229;
+			// aapt resource value: 0x7f01010f
+			public const int verticalFlingEnabled = 2130772239;
 			
 			// aapt resource value: 0x7f0100bb
 			public const int voiceIcon = 2130772155;
@@ -863,8 +890,14 @@ namespace Sample
 			// aapt resource value: 0x7f01002c
 			public const int windowNoTitle = 2130772012;
 			
-			// aapt resource value: 0x7f0100f9
-			public const int xScrollingSpeed = 2130772217;
+			// aapt resource value: 0x7f010110
+			public const int xScrollingSpeed = 2130772240;
+			
+			// aapt resource value: 0x7f010111
+			public const int zoomFocusPoint = 2130772241;
+			
+			// aapt resource value: 0x7f010112
+			public const int zoomFocusPointEnabled = 2130772242;
 			
 			static Attribute()
 			{
@@ -1825,8 +1858,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a0044
 			public const int expanded_menu = 2131361860;
 			
-			// aapt resource value: 0x7f0a0024
-			public const int friday = 2131361828;
+			// aapt resource value: 0x7f0a0026
+			public const int friday = 2131361830;
 			
 			// aapt resource value: 0x7f0a0004
 			public const int home = 2131361796;
@@ -1846,11 +1879,11 @@ namespace Sample
 			// aapt resource value: 0x7f0a006a
 			public const int info = 2131361898;
 			
-			// aapt resource value: 0x7f0a002b
-			public const int length_long = 2131361835;
+			// aapt resource value: 0x7f0a0024
+			public const int length_long = 2131361828;
 			
-			// aapt resource value: 0x7f0a002c
-			public const int length_short = 2131361836;
+			// aapt resource value: 0x7f0a0025
+			public const int length_short = 2131361829;
 			
 			// aapt resource value: 0x7f0a0064
 			public const int line1 = 2131361892;
@@ -1870,8 +1903,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a001c
 			public const int middle = 2131361820;
 			
-			// aapt resource value: 0x7f0a0025
-			public const int monday = 2131361829;
+			// aapt resource value: 0x7f0a0027
+			public const int monday = 2131361831;
 			
 			// aapt resource value: 0x7f0a0014
 			public const int multiply = 2131361812;
@@ -1897,8 +1930,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a0047
 			public const int radio = 2131361863;
 			
-			// aapt resource value: 0x7f0a0026
-			public const int saturday = 2131361830;
+			// aapt resource value: 0x7f0a0028
+			public const int saturday = 2131361832;
 			
 			// aapt resource value: 0x7f0a0015
 			public const int screen = 2131361813;
@@ -1981,8 +2014,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a0059
 			public const int submit_area = 2131361881;
 			
-			// aapt resource value: 0x7f0a0027
-			public const int sunday = 2131361831;
+			// aapt resource value: 0x7f0a0029
+			public const int sunday = 2131361833;
 			
 			// aapt resource value: 0x7f0a000b
 			public const int tabMode = 2131361803;
@@ -1996,8 +2029,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a0040
 			public const int textSpacerNoButtons = 2131361856;
 			
-			// aapt resource value: 0x7f0a0028
-			public const int thursday = 2131361832;
+			// aapt resource value: 0x7f0a002a
+			public const int thursday = 2131361834;
 			
 			// aapt resource value: 0x7f0a0065
 			public const int time = 2131361893;
@@ -2017,8 +2050,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a003a
 			public const int topPanel = 2131361850;
 			
-			// aapt resource value: 0x7f0a0029
-			public const int tuesday = 2131361833;
+			// aapt resource value: 0x7f0a002b
+			public const int tuesday = 2131361835;
 			
 			// aapt resource value: 0x7f0a0008
 			public const int up = 2131361800;
@@ -2026,8 +2059,8 @@ namespace Sample
 			// aapt resource value: 0x7f0a0012
 			public const int useLogo = 2131361810;
 			
-			// aapt resource value: 0x7f0a002a
-			public const int wednesday = 2131361834;
+			// aapt resource value: 0x7f0a002c
+			public const int wednesday = 2131361836;
 			
 			// aapt resource value: 0x7f0a005e
 			public const int weekView = 2131361886;
@@ -4756,124 +4789,168 @@ namespace Sample
 					2130772228,
 					2130772229,
 					2130772230,
-					2130772231};
-			
-			// aapt resource value: 37
-			public const int WeekView_allDayEventHeight = 37;
-			
-			// aapt resource value: 8
-			public const int WeekView_columnGap = 8;
-			
-			// aapt resource value: 13
-			public const int WeekView_dayBackgroundColor = 13;
-			
-			// aapt resource value: 21
-			public const int WeekView_dayNameLength = 21;
-			
-			// aapt resource value: 25
-			public const int WeekView_eventCornerRadius = 25;
-			
-			// aapt resource value: 23
-			public const int WeekView_eventMarginVertical = 23;
-			
-			// aapt resource value: 19
-			public const int WeekView_eventPadding = 19;
-			
-			// aapt resource value: 18
-			public const int WeekView_eventTextColor = 18;
-			
-			// aapt resource value: 5
-			public const int WeekView_eventTextSize = 5;
+					2130772231,
+					2130772232,
+					2130772233,
+					2130772234,
+					2130772235,
+					2130772236,
+					2130772237,
+					2130772238,
+					2130772239,
+					2130772240,
+					2130772241,
+					2130772242};
 			
 			// aapt resource value: 0
-			public const int WeekView_firstDayOfWeek = 0;
-			
-			// aapt resource value: 28
-			public const int WeekView_futureBackgroundColor = 28;
-			
-			// aapt resource value: 30
-			public const int WeekView_futureWeekendBackgroundColor = 30;
-			
-			// aapt resource value: 20
-			public const int WeekView_headerColumnBackground = 20;
-			
-			// aapt resource value: 6
-			public const int WeekView_headerColumnPadding = 6;
-			
-			// aapt resource value: 9
-			public const int WeekView_headerColumnTextColor = 9;
-			
-			// aapt resource value: 12
-			public const int WeekView_headerRowBackgroundColor = 12;
-			
-			// aapt resource value: 7
-			public const int WeekView_headerRowPadding = 7;
-			
-			// aapt resource value: 35
-			public const int WeekView_horizontalFlingEnabled = 35;
+			public const int WeekView_allDayEventHeight = 0;
 			
 			// aapt resource value: 1
-			public const int WeekView_hourHeight = 1;
-			
-			// aapt resource value: 14
-			public const int WeekView_hourSeparatorColor = 14;
-			
-			// aapt resource value: 17
-			public const int WeekView_hourSeparatorHeight = 17;
-			
-			// aapt resource value: 3
-			public const int WeekView_maxHourHeight = 3;
+			public const int WeekView_autoLimitTime = 1;
 			
 			// aapt resource value: 2
-			public const int WeekView_minHourHeight = 2;
+			public const int WeekView_columnGap = 2;
 			
-			// aapt resource value: 10
-			public const int WeekView_noOfVisibleDays = 10;
-			
-			// aapt resource value: 33
-			public const int WeekView_nowLineColor = 33;
-			
-			// aapt resource value: 34
-			public const int WeekView_nowLineThickness = 34;
-			
-			// aapt resource value: 22
-			public const int WeekView_overlappingEventGap = 22;
-			
-			// aapt resource value: 29
-			public const int WeekView_pastBackgroundColor = 29;
-			
-			// aapt resource value: 31
-			public const int WeekView_pastWeekendBackgroundColor = 31;
-			
-			// aapt resource value: 38
-			public const int WeekView_scrollDuration = 38;
-			
-			// aapt resource value: 26
-			public const int WeekView_showDistinctPastFutureColor = 26;
-			
-			// aapt resource value: 27
-			public const int WeekView_showDistinctWeekendColor = 27;
-			
-			// aapt resource value: 11
-			public const int WeekView_showFirstDayOfWeekFirst = 11;
-			
-			// aapt resource value: 32
-			public const int WeekView_showNowLine = 32;
+			// aapt resource value: 3
+			public const int WeekView_dayBackgroundColor = 3;
 			
 			// aapt resource value: 4
-			public const int WeekView_textSize = 4;
+			public const int WeekView_dayNameLength = 4;
+			
+			// aapt resource value: 5
+			public const int WeekView_eventCornerRadius = 5;
+			
+			// aapt resource value: 6
+			public const int WeekView_eventMarginVertical = 6;
+			
+			// aapt resource value: 7
+			public const int WeekView_eventPadding = 7;
+			
+			// aapt resource value: 8
+			public const int WeekView_eventTextColor = 8;
+			
+			// aapt resource value: 9
+			public const int WeekView_eventTextSize = 9;
+			
+			// aapt resource value: 10
+			public const int WeekView_firstDayOfWeek = 10;
+			
+			// aapt resource value: 11
+			public const int WeekView_futureBackgroundColor = 11;
+			
+			// aapt resource value: 12
+			public const int WeekView_futureWeekendBackgroundColor = 12;
+			
+			// aapt resource value: 13
+			public const int WeekView_headerColumnBackground = 13;
+			
+			// aapt resource value: 14
+			public const int WeekView_headerColumnPadding = 14;
 			
 			// aapt resource value: 15
-			public const int WeekView_todayBackgroundColor = 15;
+			public const int WeekView_headerColumnTextColor = 15;
 			
 			// aapt resource value: 16
-			public const int WeekView_todayHeaderTextColor = 16;
+			public const int WeekView_headerRowBackgroundColor = 16;
 			
-			// aapt resource value: 36
-			public const int WeekView_verticalFlingEnabled = 36;
+			// aapt resource value: 17
+			public const int WeekView_headerRowPadding = 17;
+			
+			// aapt resource value: 18
+			public const int WeekView_horizontalFlingEnabled = 18;
+			
+			// aapt resource value: 19
+			public const int WeekView_hourHeight = 19;
+			
+			// aapt resource value: 20
+			public const int WeekView_hourSeparatorColor = 20;
+			
+			// aapt resource value: 21
+			public const int WeekView_hourSeparatorHeight = 21;
+			
+			// aapt resource value: 22
+			public const int WeekView_maxHourHeight = 22;
+			
+			// aapt resource value: 23
+			public const int WeekView_maxTime = 23;
 			
 			// aapt resource value: 24
-			public const int WeekView_xScrollingSpeed = 24;
+			public const int WeekView_minHourHeight = 24;
+			
+			// aapt resource value: 25
+			public const int WeekView_minTime = 25;
+			
+			// aapt resource value: 26
+			public const int WeekView_newEventColor = 26;
+			
+			// aapt resource value: 28
+			public const int WeekView_newEventIconResource = 28;
+			
+			// aapt resource value: 27
+			public const int WeekView_newEventId = 27;
+			
+			// aapt resource value: 29
+			public const int WeekView_newEventLengthInMinutes = 29;
+			
+			// aapt resource value: 30
+			public const int WeekView_newEventTimeResolutionInMinutes = 30;
+			
+			// aapt resource value: 31
+			public const int WeekView_noOfVisibleDays = 31;
+			
+			// aapt resource value: 32
+			public const int WeekView_nowLineColor = 32;
+			
+			// aapt resource value: 33
+			public const int WeekView_nowLineThickness = 33;
+			
+			// aapt resource value: 34
+			public const int WeekView_overlappingEventGap = 34;
+			
+			// aapt resource value: 35
+			public const int WeekView_pastBackgroundColor = 35;
+			
+			// aapt resource value: 36
+			public const int WeekView_pastWeekendBackgroundColor = 36;
+			
+			// aapt resource value: 37
+			public const int WeekView_scrollDuration = 37;
+			
+			// aapt resource value: 38
+			public const int WeekView_showDistinctPastFutureColor = 38;
+			
+			// aapt resource value: 39
+			public const int WeekView_showDistinctWeekendColor = 39;
+			
+			// aapt resource value: 40
+			public const int WeekView_showFirstDayOfWeekFirst = 40;
+			
+			// aapt resource value: 41
+			public const int WeekView_showNowLine = 41;
+			
+			// aapt resource value: 42
+			public const int WeekView_textSize = 42;
+			
+			// aapt resource value: 43
+			public const int WeekView_timeColumnResolution = 43;
+			
+			// aapt resource value: 44
+			public const int WeekView_todayBackgroundColor = 44;
+			
+			// aapt resource value: 45
+			public const int WeekView_todayHeaderTextColor = 45;
+			
+			// aapt resource value: 46
+			public const int WeekView_verticalFlingEnabled = 46;
+			
+			// aapt resource value: 47
+			public const int WeekView_xScrollingSpeed = 47;
+			
+			// aapt resource value: 48
+			public const int WeekView_zoomFocusPoint = 48;
+			
+			// aapt resource value: 49
+			public const int WeekView_zoomFocusPointEnabled = 49;
 			
 			static Styleable()
 			{

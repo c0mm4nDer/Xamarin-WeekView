@@ -188,9 +188,8 @@ namespace Sample
                     return test.ToUpper() + " " + persianCalendar.getIranianDate();
             }
 
-            public string InterpretTime(int hour)
+            public string InterpretTime(int hour, int minute)
             {
-
                 return hour > 11 ? (hour - 12) + " PM" : (hour == 0 ? "12 AM" : hour + " AM");
             }
         }
