@@ -12,8 +12,8 @@
     <RootNamespace>BindingsWeekView</RootNamespace>
     <AssemblyName>BindingsWeekView</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
@@ -58,7 +58,7 @@
   <ItemGroup>
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\library-release.aar" />
+    <LibraryProjectZip Include="Jars\android-week-view-2.1.1.aar" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

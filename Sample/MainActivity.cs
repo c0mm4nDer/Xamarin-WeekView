@@ -55,6 +55,10 @@ namespace Sample
             // the week view. This is optional.
             setupDateTimeInterpreter(false);
 
+            // Set an optional time range to display.
+            mWeekView.SetMinTime(0);
+            mWeekView.SetMaxTime(13);
+
 
             mToolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
 
@@ -188,9 +192,8 @@ namespace Sample
                     return test.ToUpper() + " " + persianCalendar.getIranianDate();
             }
 
-            public string InterpretTime(int hour)
+            public string InterpretTime(int hour, int minute)
             {
-
                 return hour > 11 ? (hour - 12) + " PM" : (hour == 0 ? "12 AM" : hour + " AM");
             }
         }
