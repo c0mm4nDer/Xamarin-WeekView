@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+This repository is now deprecated. This is no longer supported.
+
 # Xamarin WeekView
 
 This project is a binding for [Android WeekView Library](https://github.com/alamkanak/Android-Week-View) Version 1.2.6
